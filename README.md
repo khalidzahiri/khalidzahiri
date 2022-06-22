@@ -3,6 +3,8 @@
 # 💫About Me :
 Hello my name is khalid ZAHIRI, I'm 24 Years Old, from French and i'm a Full-stack Developper 
 
+ 👨🏼‍💻 I love coding and learning new things 
+
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mistercoder.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khalid-zahiri) 
 
