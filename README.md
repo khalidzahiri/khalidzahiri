@@ -42,12 +42,6 @@
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-# 📊GitHub Stats :
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khalidzahiri&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 ---
