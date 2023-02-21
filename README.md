@@ -13,7 +13,7 @@
 - ⚙️ I use daily: `.php`, `.blade.php`, `.vue`, `.js`, `.html`, `.css`
 - 🌍 I'm mostly active within the **Laravel France Community**
 - 🌱 Web artisan
-- 💬 Ping me about **laravel**, **php**, **best practises**, **web development**, **vueJS**
+- 💬 Ping me about **Syùfony**, **laravel**, **php**, **best practises**, **web development**, **vueJS**
 - 🌊 Pro fact: Living under the sea
 
 
