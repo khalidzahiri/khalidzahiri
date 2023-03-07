@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **<a href="mailto:zahiri_kha@outlook.com">Contactez-moi !</a>**
 
-- 📄 Know about my experiences [<a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>](<a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
