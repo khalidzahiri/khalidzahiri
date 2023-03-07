@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ReactJS & Drupal**
 
-- 👨‍💻 All of my projects are available at [<a href="https://khalidzahiri.github.io/">Portfolio</a>](<a href="https://khalidzahiri.github.io/">Portfolio</a>)
+- 👨‍💻 All of my projects are available at <a href="https://khalidzahiri.github.io/">Portfolio</a>
 
 - 💬 Ask me about **Symfony, Laravel**
 
