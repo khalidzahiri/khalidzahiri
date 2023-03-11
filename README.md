@@ -5,13 +5,15 @@
 
 - 🌱 I’m currently learning **ReactJS & Drupal**
 
-- 👨‍💻 All of my projects are available at <a href="https://khalidzahiri.github.io/">Portfolio</a>
+- 👯 I’m looking for **a new post**
+
+- 👨‍💻 All of my projects are available at [<a href="https://khalidzahiri.github.io/">Portfolio</a>](<a href="https://khalidzahiri.github.io/">Portfolio</a>)
 
 - 💬 Ask me about **Symfony, Laravel**
 
 - 📫 How to reach me **<a href="mailto:zahiri_kha@outlook.com">Contactez-moi !</a>**
 
-- 📄 Know about my experiences <a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>
+- 📄 Know about my experiences [<a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>](<a href="https://www.linkedin.com/in/khalidzahiri/"> Linkedin</a>)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
