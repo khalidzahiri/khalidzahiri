@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Full-Stack developper</h1>
-<h3 align="center">passionate with PHP and JavaScript Frameworks</h3>
+<h1 align="center">Bonjour, je suis un développeur full-stack </h1>
 
 - 🔭 I’m currently working on **an E-commerce Website**
 
