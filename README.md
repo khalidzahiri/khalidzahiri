@@ -1,16 +1,7 @@
 <h1 align="center">Bonjour, je suis un développeur full-stack </h1>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khalidzahiri" height="50" width="60" /></a>
-<a href="https://dev.to/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khalidzahiri" height="50" width="60" /></a>
-<a href="https://linkedin.com/in/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidzahiri" height="50" width="60" /></a>
-<a href="https://stackoverflow.com/users/khalid zahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khalid zahiri" height="50" width="60" /></a>
-<a href="https://www.codechef.com/users/khalidzahiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalidzahiri" height="50" width="60" /></a>
-<a href="https://www.hackerrank.com/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidzahiri" height="50" width="60" /></a>
-<a href="https://www.hackerearth.com/khalid zahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid zahiri" height="50" width="60" /></a>
-</p>
+
 
 <p align="left"> 
 <h3 align="left">Languages and Tools:</h3>
@@ -46,3 +37,14 @@
 </p> <br><br>
 
 <p><img style="width:500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khalidzahiri&show_icons=true&locale=en&layout=compact" alt="khalidzahiri" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="khalidzahiri" height="50" width="60" /></a>
+<a href="https://dev.to/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="khalidzahiri" height="50" width="60" /></a>
+<a href="https://linkedin.com/in/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalidzahiri" height="50" width="60" /></a>
+<a href="https://stackoverflow.com/users/khalid zahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="khalid zahiri" height="50" width="60" /></a>
+<a href="https://www.codechef.com/users/khalidzahiri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="khalidzahiri" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/khalidzahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="khalidzahiri" height="50" width="60" /></a>
+<a href="https://www.hackerearth.com/khalid zahiri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="khalid zahiri" height="50" width="60" /></a>
+</p>
