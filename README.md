@@ -1,5 +1,7 @@
 <h1 align="center">Bonjour, je suis un développeur full-stack </h1>
 
+<h3> Actuellement, je suis à la recherche d'une nouvelle opportunité pour développer mes compétences et contribuer à des projets passionnants. Bien que je n'aie jamais travaillé pour une entreprise tech, j'ai une solide expérience dans l'utilisation des technologies indiqué en dessous. </h3>
+
 
 
 
