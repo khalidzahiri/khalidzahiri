@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour, je suis développeur full-stack </h1>
+<h1 align="center">Bonjour,  je suis développeur full-stack </h1>
 
 <h3> Développeur web diplômé Bac+3 et élève pilote, je recherche une alternance pour préparer mon Diplôme de bac+5 en informatique à l'école Epitech de Toulouse. Ma double passion pour l'informatique et l'aviation me pousse à m'investir pleinement dans ces domaines. Je souhaite mettre mes compétences technologiques au service de l'innovation, l’Ingénierie et des IT Services </h3>
 
