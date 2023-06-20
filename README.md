@@ -1,6 +1,6 @@
 <h1 align="center">Bonjour,  je suis développeur full-stack </h1>
 
-<h3> Développeur web diplômé Bac+3 et élève pilote. <br> Ma double passion pour l'informatique et l'aviation me pousse à m'investir pleinement dans ces domaines. Je souhaite mettre mes compétences technologiques au service de l'innovation, l’Ingénierie et des IT Services </h3>
+<h3> Développeur web diplômé Bac+3 et élève pilote. <br><br><br> Ma double passion pour l'informatique et l'aviation me pousse à m'investir pleinement dans ces domaines. <br><br><br> Je souhaite mettre mes compétences technologiques au service de l'innovation, l’Ingénierie et des IT Services </h3><br><br>
 
 
 
