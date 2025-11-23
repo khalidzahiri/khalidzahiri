@@ -1,85 +1,80 @@
-# 👋 Salut, moi c’est Khalid  
-### Développeur JavaScript — Frontend & Backend  
-React.js • Node.js • UI/UX moderne • Automatisation
+<h1 align="center">👋 Hello, moi c’est <strong>Khalid</strong></h1>
+<h3 align="center">Développeur Full Stack JavaScript • React & Node.js</h3>
 
-Passionné par le développement web, j’aime créer des interfaces fluides, accessibles et qui résolvent de vrais problèmes.  
-Je privilégie un code propre, une architecture simple à faire évoluer, et des produits pensés pour les utilisateurs.
+<p align="center">
+  <a href="https://khalidzahiri.fr" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:khalid.zahiri.dev@gmail.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=maildotru&logoColor=white"/></a>
+  <a href="https://github.com/khalidzahiri"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Compétences Techniques
+## 🚀 Tech Stack
+
+### **Langages**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge"/>
+</p>
 
 ### **Frontend**
-- React.js, Next.js  
-- JSX / TSX  
-- TailwindCSS, Zustand  
-- Composants réutilisables, state management  
-- Accessibilité & performance  
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss&logoColor=fff&style=for-the-badge"/>
+</p>
 
 ### **Backend**
-- Node.js, Express  
-- APIs REST, authentification (JWT, sessions)  
-- Prisma, Mongoose  
-- PostgreSQL, MySQL, MongoDB  
-- Architecture en couches & bonnes pratiques
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge"/>
+</p>
 
-### **Outils & Méthodologie**
-- Git / GitHub  
-- Docker  
-- CI/CD basique (GitHub Actions)  
-- Clean Code & patterns simples  
-- Tests basiques (Jest)
-
-### **Automatisation**
-- Python + Selenium : automatisation d’un processus de prise de rendez-vous (remplissage et envoi des données sans intervention humaine)
-
----
-
-## 🎓 Formation
-### **🎓 Concepteur Développeur d’Applications – O’clock**
-Compétences acquises :  
-- Node.js, Express, PHP, Laravel  
-- Architecture MVC / N-layer  
-- Bases de données SQL & NoSQL  
-- Docker & conteneurisation  
-- Sécurité (OWASP, injections, bonnes pratiques)  
-- Développement mobile & desktop (Flutter)  
-- Cloud (Serverless, FaaS/IaaS/PaaS)  
-- UML & bases de gestion de projet
+### **Outils & DevOps**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📌 Projets Principaux
 
-### **BricoHsin**  
-Application full-stack (React + Node.js) permettant de connecter des particuliers et des prestataires pour des petits services.  
-→ Focus : UX simple, architecture claire, API sécurisée.
+### **🛒 BricoHsin (2025) — Plateforme e-commerce & SAV**
+- React + Vite + Tailwind + Backend sur mesure  
+- Tableau de bord admin (KPIs, produits, devis)  
+- Multilingue (FR/EN/AR)
 
-### **ZKTP**  
-Projet autour de l’identification sécurisée et du contrôle d’accès.  
-→ Focus : validations, sécurité, expérience fluide.
+### **🔐 ZKTP (2025) — Application de gestion & qualification des demandes**
+- Architecture full-stack moderne  
+- UI responsive + automatisation des workflows
 
-### **Automatisation (Python + Selenium)**  
-Script permettant d’automatiser un processus de réservation en ligne.  
-→ Focus : fiabilité, gestion des champs, envoi autonome.
-
-### **Portfolio v3 – khalidzahiri.fr**  
-Version moderne avec animations, sections modulaires et accessibilité renforcée.
-
----
-
-## 🧭 Ce que je recherche
-- Évoluer dans une équipe qui aime bien faire les choses  
-- Contribuer à des projets React/Node concrets  
-- Monter en compétence, apprendre des seniors, et apporter ma rigueur et ma motivation
-
-Je suis quelqu’un de sérieux, impliqué, curieux, et je prends toujours le temps de comprendre avant de coder.
+### **🤖 Automatisation Selenium**
+- Script Python + Selenium pour automatiser une prise de rendez-vous  
+- Remplissage dynamique des champs  
+- Envoi entièrement autonome
 
 ---
 
-## 📫 Me contacter
-- 🌐 Portfolio : https://khalidzahiri.fr  
-- 📧 Email : khalid.zahiri.dev@gmail.com  
-- 💼 LinkedIn : /in/khalidzahiri  
+## 📊 Stats GitHub
 
-Merci pour votre visite 👋
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khalidzahiri&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidzahiri&layout=compact&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🙋‍♂️ À propos
+Développeur passionné, sérieux et curieux.  
+J’aime construire des interfaces claires, utiles et accessibles.  
+Je privilégie :
+- un code propre,
+- une UX fluide,
+- des solutions simples à maintenir.
+
+📬 Contact : **khalid.zahiri.dev@gmail.com**
